@@ -14,3 +14,21 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+# 👋 我是 小新
+
+🌈：from🌍
+
+🏡：Blog
+
+👨‍💻：
+
+🌱：
+
+
+## 技术栈
+
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,jquery,less,scss,vue,pinia,electron,webpack,vite,npm,yarn,pnpm,md,git,github,java,spring,maven,python,nodejs,mysql,redis,docker,linux,vscode,idea,webstorm,pycharm,postman,ps,windows" />
+  </a>
+</p>
