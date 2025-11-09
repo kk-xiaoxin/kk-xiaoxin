@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 🌱：
 
 
-## 技术栈
+## skill & tool
 
 <p align="left">
   <a href="https://skillicons.dev">
