@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 🌈 From：🌍，某年某天某村落一个少年悄然出现，开始了他在这个世界的美好生活！
 
-🏡 Blog：有的有的，但也就我自己看 ...
+🏡 Blog：https://x-blog.kkxiaoxin.top
 
 👨‍💻 职业：白天写代码，晚上 debug 自己的人生
 
