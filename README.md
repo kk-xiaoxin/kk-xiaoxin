@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,jquery,less,scss,vue,pinia,electron,webpack,vite,npm,yarn,pnpm,md,git,github,java,spring,maven,python,nodejs,mysql,redis,docker,linux,vscode,idea,webstorm,pycharm,postman,ps,windows" />
+    <img src="https://skillicons.dev/icons?i=git,github,gitlab,java,spring,maven,mysql,redis,docker,nginx,jenkins,linux,html,css,javascript,typescript,vue,nodejs,webpack,vite,npm,pnpm,md,vscode,idea,webstorm,postman,ps,windows" />
   </a>
 </p>
 
